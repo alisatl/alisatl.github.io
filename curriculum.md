@@ -9,6 +9,21 @@ This page comprises the courses I've taken throughout my journey of continous se
 
 While the amount of subjects and courses might be overwhelming, it's practical and totally doable to start by taking 1-2 courses from each subject that focus on different aspects (e.g., theory vs. practice) or areas. 
 
+
+# Table of Contents
+1. [NLP](#nlp)
+2. [ML and Learning Theory](#ml-and-learning-theory)
+3. [Neural Networks/NNs/DL](#neural-networks/nns/dl)
+4. [Math for ML ](#math-for-ml)
+5. [Probability Theory](#probability-theory)
+6. [Statistics/Statistical Inference](#statistics/statistical-inference)
+7. [Python](#python)
+8. [Data Science Practice](#data-science-practice)
+9. [Python for Data Science: Pandas/NumPy/IPython](#python-for-data-science-pandas/numpy/ipython)
+10. [Computer Science/Algorithms and Data Structures](#computer-science/algorithms-and-data-structures)
+11. [Scientific Paper Writing](#scientific-paper-writing)
+
+
 ## NLP
 
 #### Traditional NLP Algorithms
@@ -41,14 +56,17 @@ While the amount of subjects and courses might be overwhelming, it's practical a
 
 **Book** by [Hal Daumé III, A Course in Machine Learning (2017)](http://ciml.info/)
 
-**CalTech**  Learning from Data - more fundamental/theoretic
-* [program, tasks, and videos](https://work.caltech.edu/telecourse)
+**CalTech**  [Learning from Data](https://work.caltech.edu/telecourse) by Prof. Yaser Abu-Mostafa _-- fundamental/theoretic_
+* program, tasks, and videos
  
-**Stanford@Coursera** Machine Learning by Andrew Ng - more practical
+**Cornell** CS4780 [Machine Learning](https://www.youtube.com/watch?v=MrLPzBxG95I) by Prof. Kilian Weinberger  _--this course & the CalTech's one perfectly complement each other for the fundamentals of traditional ML & Learning Theory_ 
+* [program, lecture notes, videos](https://www.cs.cornell.edu/courses/cs4780/2018fa/lectures/)
+
+**Stanford@Coursera** Machine Learning by Andrew Ng _--very popular, less in-depth theory_
 * [program, tasks, and videos](https://www.coursera.org/learn/machine-learning)
   
 
-**John Hopkins University@Coursera** [Data Science: Statistics and Machine Learning Specialization by Brian Caffo](https://www.coursera.org/specializations/data-science-statistics-machine-learning)  _--in R!!!_
+**John Hopkins University@Coursera** [Data Science: Statistics and Machine Learning Specialization by Brian Caffo](https://www.coursera.org/specializations/data-science-statistics-machine-learning)  _--in R!!! applied data science_
 
 
 
@@ -70,7 +88,9 @@ While the amount of subjects and courses might be overwhelming, it's practical a
 #### PyTorch 
 [Deep Learning with PyTorch Book (2020)](https://pytorch.org/assets/deep-learning/Deep-Learning-with-PyTorch.pdf) by Eli Stevens and Thomas Viehmann 
 
-## Math for ML
+## Math for ML 
+
+_This is more advanced for in-depth understanding._
 
 **Imperial College London@Coursera**  [Mathematics for Machine Learning Specialization](https://www.coursera.org/specializations/mathematics-machine-learning)
 * program, tasks, and videos
@@ -123,7 +143,7 @@ While the amount of subjects and courses might be overwhelming, it's practical a
 
 **MIT@EdX** [Introduction to Computer Science and Programming Using Python](https://www.edx.org/course/introduction-to-computer-science-and-programming-7) _--more comprehensive - only starts at certain dates and not available out of the running sessions!_
 
-**MIT@EdX** XSeries [Computational Thinking using Python](https://www.edx.org/xseries/mitx-computational-thinking-using-python) _--!!! it's a paid course $_
+**MIT@EdX XSeries**  [Computational Thinking using Python](https://www.edx.org/xseries/mitx-computational-thinking-using-python) _--!!! it's a paid course $_
 
 
 ####  Python Practice
@@ -160,11 +180,20 @@ Introductory tasks:
 **Educative.io** [From Python to Numpy](https://www.educative.io/courses/from-python-to-numpy) _--1 month free; further subscription for $_
 
 
-## Computer Science
+## Computer Science/Algorithms and Data Structures
+
+_The prep for typical programming interview questions._
 
 **Book** [Algorithms, 4th Edition (2020) by Robert Sedgewick and Kevin Wayne](https://algs4.cs.princeton.edu/home/) _--in Java_  
 
 **Coursera**  Algorithms [I](https://www.coursera.org/learn/algorithms-part1), [II](https://www.coursera.org/learn/algorithms-part2) by Robert Sedgewick and Kevin Wayne (authors of the Algorithms book) _--in Java_
+
+
+**MIPT** [Algorithms and Data Structuresin in Python 3 (Алгоритмы и структуры данных на Python 3)](https://www.youtube.com/playlist?list=PLRDzFCPr95fK7tr47883DFUbm4GeOjjc0) by Timofei Khiryanov _--in Russian! I personally like them most_
+* additional [practice](http://judge.mipt.ru/mipt_cs_on_python3/) 
+
+**MIR OCW** 6.006 [Introduction to Algorithms](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/) by Prof. Erik Demaine _--arguably another best course on algo & DS_
+* [videos](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/lecture-videos/) 
 
 
 Udacity

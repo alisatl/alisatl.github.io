@@ -4,11 +4,11 @@ title: About
 permalink: /about/
 ---
 
-Homepage is under development 
+Homepage is under permanent development 
 
 ### More Information
 
-... coming soon... 
+Affiliated with the [Ronin Institute for Independent Scholarship](http://ronininstitute.org) since September 2021. 
 
 ### Contact me
 
