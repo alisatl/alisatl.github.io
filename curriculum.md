@@ -19,9 +19,12 @@ While the amount of subjects and courses might be overwhelming, it's practical a
 6. [Statistics/Statistical Inference](#statistics/statistical-inference)
 7. [Python](#python)
 8. [Data Science Practice](#data-science-practice)
+    1. [Git](#git)
+    1. [Kaggle](#kaggle)
 9. [Python for Data Science: Pandas/NumPy/IPython](#python-for-data-science-pandas/numpy/ipython)
 10. [Computer Science/Algorithms and Data Structures](#computer-science/algorithms-and-data-structures)
 11. [Scientific Paper Writing](#scientific-paper-writing)
+1. [Other Useful Subjects](#other-useful-subjects) 
 
 
 ## NLP
@@ -77,7 +80,7 @@ While the amount of subjects and courses might be overwhelming, it's practical a
 **Book** [Dive Into Deep Learning (2020) by Aston Zhang, Zachary C. Lipton, Mu Li, and Alexander J. Smola](http://deeplearning.cs.cmu.edu/S21/document/readings/d2l-en.pdf)
 
 
-**CMU 11-785** Intro to Deep Learning by Bhiksha Raj _--fundamental_
+**CMU 11-785** [Intro to Deep Learning](http://deeplearning.cs.cmu.edu/S21/index.html) by Bhiksha Raj _--fundamental_
 
 * [program, tasks, videos, books](http://deeplearning.cs.cmu.edu/S21/index.html)
 * [videos Fall 2019](https://www.youtube.com/watch?v=VO5vKowfMOQ)  (_--actually, the 2020 course run might be better as the classes were lead from home and the instructor used time more freely_)
@@ -153,6 +156,10 @@ _This is more advanced for in-depth understanding._
 
 ## Data Science Practice
 
+#### Git
+
+[Git & GitHub Tutorial for Beginners](https://www.classcentral.com/course/youtube-git-github-tutorial-for-beginners-45770/classroom) by The Net Ninja --_or anything similar, should be plenty online_
+
 #### Kaggle
 
 Introductory tasks: 
@@ -207,6 +214,30 @@ https://www.udacity.com/course/intro-to-theoretical-computer-science--cs313
 **École Polytechnique@Coursera** [How to Write and Publish a Scientific Paper (Project-Centered Course)](https://www.classcentral.com/course/how-to-write-a-scientific-paper-5816)
 
 **Tsinghua University@EdX** [Writing, Presenting and Submitting Scientific Papers in English](https://www.edx.org/course/writing-presenting-and-submitting-scientific-paper)
+
+
+## Other Useful Subjects 
+
+The following subject vary from  those that are more fundamental and typically taught in the Bachelor Degree program but are useful to refresh/revisit to more in-depth gaduate degree courses that may be useful for applied NLP only to certain extent and in the volume of selected chapters.    
+
+* Linear Algebra
+* Partial Differential Equations
+* Measure-Theoretic Probability
+* Convex Optimization 
+* Statistical Inference --_basically, similar to some fundamental readings on ML theory suggetsed above_
+* Discrete Mathematics
+* Scientific Computing/Numerical Analysis 
+* Data Structures and Algorithms
+* Software Design Paradigms in Python and C++
+* Stochastic Calculus
+* Stochastic Optimization
+* Managing/Analyzing Large Data Sets
+* Parallel/Distributed Computing
+* Deep Learning (start with [Intro to Deep Learning](http://deeplearning.cs.cmu.edu/S21/index.html) by Bhiksha Raj and then decide where to advance)
+* Reinforcement Learning
+* One domain/practical project course focused on modeling/algorithms
+* One domain/practical project course focused on big data (Stanford's [CS246: Mining Massive Data Sets](https://web.stanford.edu/class/cs246/), videos available [here](https://www.youtube.com/watch?v=xoA5v9AO7S0&list=PLLssT5z_DsK9JDLcT8T62VtzwyW9LNepV))
+
 
 
 ### Contact
